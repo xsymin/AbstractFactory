@@ -1,0 +1,2 @@
+# AbstractFactory
+一个小demo对抽象工厂模式的演示，这是一个较小的Java工程，直接导入idea即可运行
